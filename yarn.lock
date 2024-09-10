@@ -751,10 +751,10 @@
   resolved "https://registry.yarnpkg.com/@solid-primitives/utils/-/utils-6.2.3.tgz#1abed4c74a2696e08bd2e49cf2b86fc8b87a32bd"
   integrity sha512-CqAwKb2T5Vi72+rhebSsqNZ9o67buYRdEJrIFzRXz3U59QqezuuxPsyzTSVCacwS5Pf109VRsgCJQoxKRoECZQ==
 
-"@solidjs/router@^0.8.2":
-  version "0.8.4"
-  resolved "https://registry.yarnpkg.com/@solidjs/router/-/router-0.8.4.tgz#aa19bee6dc6289807821b2d0dd5cf07a79da6b68"
-  integrity sha512-Gi/WVoVseGMKS1DBdT3pNAMgOzEOp6Q3dpgNd2mW9GUEnVocPmtyBjDvXwN6m7tjSGsqqfqJFXk7bm1hxabSRw==
+"@solidjs/router@^0.14.0":
+  version "0.14.3"
+  resolved "https://registry.yarnpkg.com/@solidjs/router/-/router-0.14.3.tgz#b354a03ef7ff52d67afb9c3525004721c911047f"
+  integrity sha512-9p4k4zL2baK/1XRQALbFcaQ4IikjkWmxqYQtFqLzjONUejhL1uqJHtzxB4tZjmNqtRANVRnTDbJfzjvaD9k+pQ==
 
 "@types/babel__core@^7.20.4":
   version "7.20.5"
