@@ -27,7 +27,7 @@
     "openapi-typescript": "^6.5.0",
     "prettier": "^2.8.8",
     "typescript": "^5.0.4",
-    "unocss": "^0.51.8",
+    "unocss": "^0.63.0",
     "vite": "^4.5.3",
     "vite-plugin-solid": "^2.7.2",
     "vitest": "^0.31.4"
@@ -38,7 +38,7 @@
     "@fluent/sequence": "^0.8.0",
     "@solid-devtools/overlay": "^0.27.7",
     "@solidjs/router": "^0.8.2",
-    "@unocss/reset": "^0.51.12",
+    "@unocss/reset": "^0.63.0",
     "feather-icons": "^4.29.0",
     "openapi-fetch": "^0.2.0",
     "solid-js": "^1.7.4"
