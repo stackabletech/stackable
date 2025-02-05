@@ -37,7 +37,7 @@
     "@fluent/langneg": "^0.7.0",
     "@fluent/sequence": "^0.8.0",
     "@solid-devtools/overlay": "^0.27.7",
-    "@solidjs/router": "^0.8.2",
+    "@solidjs/router": "^0.14.0",
     "@unocss/reset": "^0.51.12",
     "feather-icons": "^4.29.0",
     "openapi-fetch": "^0.2.0",
