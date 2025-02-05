@@ -58,6 +58,6 @@ jobs:
         run: mv target/${{ matrix.target }}/release/stackablectl${{ matrix.file-suffix }} stackablectl-${{ matrix.target }}${{ matrix.file-suffix }}
 
       - name: Upload Release Binary
-        uses: softprops/action-gh-release@69320dbe05506a9a39fc8ae11030b214ec2d1f87 # v2.0.5
+        uses: softprops/action-gh-release@c062e08bd532815e2082a85e87e3ef29c3e6d191 # v2.0.8
         with:
           files: stackablectl-${{ matrix.target }}${{ matrix.file-suffix }}

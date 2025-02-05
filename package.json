@@ -3,5 +3,5 @@
   "workspaces": [
     "web"
   ],
-  "packageManager": "yarn@1.22.19"
+  "packageManager": "yarn@1.22.22"
 }

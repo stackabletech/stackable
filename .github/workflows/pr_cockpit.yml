@@ -52,7 +52,7 @@ jobs:
           toolchain: ${{ env.RUST_VERSION }}
 
       - name: Setup Rust Cache
-        uses: Swatinem/rust-cache@23bce251a8cd2ffc3c1075eaa2367cf899916d84 # v2.7.3
+        uses: Swatinem/rust-cache@82a92a6e8fbeee089604da2575dc567ae9ddeaab # v2.7.5
         with:
           key: pr-stackable-cockpit-chart
 
@@ -112,7 +112,7 @@ jobs:
         uses: anchore/sbom-action/download-syft@61119d458adab75f756bc0b9e4bde25725f86a7a # v0.17.2
 
       - name: Setup Rust Cache
-        uses: Swatinem/rust-cache@23bce251a8cd2ffc3c1075eaa2367cf899916d84 # v2.7.3
+        uses: Swatinem/rust-cache@82a92a6e8fbeee089604da2575dc567ae9ddeaab # v2.7.5
         with:
           key: pr-stackable-cockpit-chart
 
